@@ -3,4 +3,4 @@ Independent research project completed as part of B.S. Mathematical Statistics C
 
 Project focuses on predictive analysis of stock ticker performance through implementation of Bagged and Gradient Boosted Classification Forests and Logistic Regression Models. 
 
-All statistical analysis performed in R.
+Statistical analysis and visualizations performed in R.
